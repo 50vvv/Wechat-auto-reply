@@ -1,6 +1,9 @@
 # Wechat-auto-reply
 i love python , wuhu~
 
+更新：优化代码
+     新功能都写注释里了
+
 思路见附件图片，使用wxauto和time第三方库
 
 
